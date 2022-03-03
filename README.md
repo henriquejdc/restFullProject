@@ -2,7 +2,7 @@ Rest Full Project Django REST Framework
 
 Implementado:
 - 2 modelos de serializer (ModelSerializer and Serializer)
-- View com def e api_view ou csrf
+- Def view com decorators api_view ou csrf
 - Class para view usando APIView
 - Class para view usando GenericAPIView
 - Class usando ViewSet e Router
